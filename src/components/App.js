@@ -14,6 +14,7 @@ class App extends Component {
           <div className="my-header">EarthQuakes
           </div>
         </div>
+        
         <EarthquakeInfo />
         <EarthquakeList />
       </div>
